@@ -1,4 +1,0 @@
-#EXT-X-STREAM-INF:CODECS=avc1.4d0029,mp4a.40.2,RESOLUTION=960x540,BANDWIDTH=1500000
-http://cdn.us195.jpnettv.live:1935/jptv/bsjapan_540/playlist.m3u8
-#EXT-X-STREAM-INF:CODECS=avc1.4d0029,mp4a.40.2,RESOLUTION=1280x720,BANDWIDTH=2000000
-http://cdn.us195.jpnettv.live:1935/jptv/bsjapan_720/playlist.m3u8
